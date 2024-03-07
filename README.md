@@ -1,3 +1,1 @@
 ## Hand Tracking
-
-test
